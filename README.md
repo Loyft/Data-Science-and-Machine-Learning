@@ -11,3 +11,6 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 - Simple Cost function
 - Slope and Derivates
 - Gradient Descent function
+
+**Gradient Descent II**
+- Multiple Minima vs Initial Guess & Advanced Functions
