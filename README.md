@@ -14,3 +14,6 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 
 **Gradient Descent II**
 - Multiple Minima vs Initial Guess & Advanced Functions
+
+**Gradient Descent III**
+- Divergence and Overflow
