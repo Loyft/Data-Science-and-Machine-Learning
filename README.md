@@ -17,3 +17,6 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 
 **Gradient Descent III**
 - Divergence and Overflow
+
+**Gradient Descent IV**
+- Learning Rate
