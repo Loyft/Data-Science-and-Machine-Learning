@@ -20,3 +20,6 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 
 **Gradient Descent IV**
 - Learning Rate
+
+**Gradient Descent V**
+- Data visualization and 3D Charts
