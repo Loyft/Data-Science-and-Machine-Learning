@@ -23,3 +23,8 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 
 **Gradient Descent V**
 - Data visualization and 3D Charts
+
+**Gradient Descent VI**
+- Partial Derivatives & Symbolic Computation
+- Batch Gradient Descent with SymPy
+- Graphing 3D Gradient Descent & Adv Numpy Arrays
