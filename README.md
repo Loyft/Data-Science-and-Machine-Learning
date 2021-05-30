@@ -34,3 +34,8 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 
 **Gradient Descent VIII**
 - 3D MSE
+
+### 03 - Multivariable Regression
+**Multivariable Regression I**
+- Gather Data points and features
+- Data exploration with Pandas DataFrame
