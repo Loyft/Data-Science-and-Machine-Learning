@@ -39,3 +39,6 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 **Multivariable Regression I**
 - Gather Data points and features
 - Data exploration with Pandas DataFrame
+
+**Multivariable Regression II**
+- Visualizating data - Histograms, Distributions and Bar Charts
