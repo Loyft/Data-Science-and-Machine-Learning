@@ -42,3 +42,6 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 
 **Multivariable Regression II**
 - Visualizating data - Histograms, Distributions and Bar Charts
+
+**Multivariable Regression III**
+- Histograms
