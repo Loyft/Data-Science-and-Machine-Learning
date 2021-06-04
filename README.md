@@ -41,7 +41,8 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 - Data exploration with Pandas DataFrame
 
 **Multivariable Regression II**
-- Visualizating data - Histograms, Distributions and Bar Charts
+- Visualizating data
+- Histograms, Distributions and Bar Charts
 
 **Multivariable Regression III**
 - Histograms
@@ -49,5 +50,11 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 **Multivariable Regression IV**
 - Descriptive Statistics
 
-**Multivariable Regression**
+**Multivariable Regression V**
 - Correlation
+
+**Multivariable Regression VI**
+- Split training and test dataset
+- Multivariable Regression
+- Data Transformations
+- Regression using log prices
