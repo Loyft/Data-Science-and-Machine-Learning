@@ -58,3 +58,8 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 - Multivariable Regression
 - Data Transformations
 - Regression using log prices
+
+**Multivariable Regression VII**
+- Testing for Multicollinearity
+- Model Simplification and BIC
+- Residuals and Residual Plots
