@@ -63,3 +63,12 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 - Testing for Multicollinearity
 - Model Simplification and BIC
 - Residuals and Residual Plots
+
+### 04 - Bayes Classifier
+**Bayes Classifier I**
+- Reading files
+- Email body extraction
+- Data Cleaning
+- Locate empty mails
+- Add document IDs
+- Remove System file entries from DataFrame 
