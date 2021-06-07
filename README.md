@@ -71,4 +71,7 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 - Data Cleaning
 - Locate empty mails
 - Add document IDs
-- Remove System file entries from DataFrame 
+- Remove System file entries from DataFrame
+
+**Bayes Classifier II**
+- Spam Massages visualized
