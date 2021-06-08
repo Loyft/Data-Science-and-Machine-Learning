@@ -75,3 +75,7 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 
 **Bayes Classifier II**
 - Spam Massages visualized
+
+**Bayes Classifier III**
+- Natural Language Processing
+- Wordclouds
