@@ -79,3 +79,9 @@ Notes and Projects of the "Data Science and Machine Learning" Course from Udemy
 **Bayes Classifier III**
 - Natural Language Processing
 - Wordclouds
+
+**Bayes Classifier IV**
+- Generator function
+- Missing Data
+- Tokenisation
+- Generate features and sparse Matrix
